@@ -1,0 +1,9 @@
+[submodule "mysql-workbench-installer"]
+	path = mysql-workbench-installer
+	url = git@github.com:divramod/mysql-workbench-installer.git
+[submodule "typo3-installer"]
+	path = typo3-installer
+	url = git@github.com:divramod/typo3-installer.git
+[submodule "freemind-installer"]
+	path = freemind-installer
+	url = git@github.com:divramod/freemind-installer.git
